@@ -8,6 +8,7 @@ We will get a list of Coins from each tab of Crypto assets.
 For each coin, We will get Ranking, Coin name, Coin URL, Price, Direct Volume, Total Volume, Top-Tier Volume, Market Cap, Rating and % Chg.
 We will return all the extracted values into a dictionary and then to create a data frame.
 From Data Frame, we will create a CSV file format
+![image](https://user-images.githubusercontent.com/85775960/197727907-7e18bb76-9542-4897-9c87-0b0f6a4c1c51.png)
 
 # Overview Description of the Project
 - Scraped Cryptocompare Website. We used Python, libraries such as Requests, Selenium, and Pandas to extract the details for this project.
